@@ -1,0 +1,38 @@
+#summary Список реализованых и запланированых возможностей VKFS
+#labels Featured,Phase-Implementation
+
+= Возможности VKFS =
+
+  # Свой профиль _/My_Info_
+    # Информация профиля _/My_Info/Profile.txt_
+      # Местоположение *(complete)*
+      # Дата рождения *(complete)*
+      # Пол *(complete)*
+      # ~~Город рождения~~ (в данный момент API не позволяет получить такие данные)
+      # Семейное положение *(complete)*
+      # Политические взгляды *(complete)*
+      # Образование *(complete)*
+      # Текущий статус *(complete)*
+      # Фотографии пользователя *(complete)* _/My_Info/Photos_
+    # Стена _/My_Info/Wall.txt_
+      # Чтение *(complete)*
+      # Новая запись
+      # Удаление записей
+    # Аватар
+      # Просмотр *(complete)* _/My_Info/avatar.jpg_
+      # Замена
+  # Друзья
+    # Друзья как подпапки *(complete)* _/Friends_
+    # Вся переписка
+    # Стена *(complete)* _/Friends/Vasya Pupkin/Wall.txt_
+    # Аватар *(complete)* _/Friends/Vasya Pupkin/avatar.jpg_
+    # Профиль *(complete)* _/Friends/Vasya Pupkin/Profile.txt_
+    # Фотографии пользователя *(complete)* _/Friends/Vasya Pupkin/Photos/_
+  # Закладки
+    # Люди-закладки _/Favorites_ *(complete)*
+  # Сообщения _/Messages_
+    # Входящие
+      # Чтение *(complete)* _/Messages/Inbox_
+    # Исходящие
+      # Чтение *(complete)* _/Messages/Outbox_
+  # Музыка
